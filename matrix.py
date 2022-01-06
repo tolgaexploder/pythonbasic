@@ -61,7 +61,6 @@ def setPlayScreen(en,boy):
     setPlayerScreen(OyunPenceresi)
 
 def playGame(buton):
-    #Burada python'in en gicik yanlarindan birini daha kesfettim. switch case yok O_0 . Nasil olmaz hocam...
     global a1,a2,b1,b2,En,Boy,Ascore,Bscore,Aoyuncusu,Boyuncusu,OyunPenceresi
 
     def toggleWithdraft():
